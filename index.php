@@ -6,7 +6,7 @@
     <body>
         
         <p id="change">Checking storage</p>
-        <a href="/index2.php?option=com_jumi&amp;fileid=3&amp;Itemid=11"
+        <a href="auth/index.php?clientId=ranjithdinakaran&clientSecret=Drk_13232104&prefix_url=d-lab-2019"
    onclick="window.open(this.href,'targetWindow',
                                    `toolbar=no,
                                     location=no,

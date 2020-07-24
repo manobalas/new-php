@@ -20,7 +20,7 @@
             setInterval(function(){ 
                 // check
                 if(localStorage.getItem("b_token") != null) {
-                    document.getElementById("change").innerHTML = "Cookie Available";
+                    document.getElementById("change").innerHTML = "Logged In";
                     closeWin();
                 }
             }, 1000);

@@ -5,8 +5,8 @@
     </head>
     <body>
         
-        <p id="change">Checking storage</p>
-        <a href="auth/index.php?clientId=ranjithdinakaran&clientSecret=Drk_13232104&prefix_url=d-lab-2019" onclick="openWin(this.href); return false;">Popup link</a>
+        <p id="change">Not Logged in</p>
+        <a href="auth/index.php?clientId=ranjithdinakaran&clientSecret=Drk_13232104&prefix_url=d-lab-2019" onclick="openWin(this.href); return false;">Click here to login</a>
         <script>
             var myWindow;
             function openWin(link) {

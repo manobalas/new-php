@@ -115,9 +115,11 @@ else {
     word-break: break-all;
     font-size: 9px;
 ">
+        
+        Redirecting.........
         <?php 
         // echo "<pre>"; 
-        echo $cccToken;
+//         echo $cccToken;
         ?>
         
     </div>

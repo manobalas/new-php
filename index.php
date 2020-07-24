@@ -14,8 +14,8 @@
                                     menubar=no,
                                     scrollbars=yes,
                                     resizable=yes,
-                                    width=SomeSize,
-                                    height=SomeSize`);
+                                    width=500,
+                                    height=500`);
  return false;">Popup link</a>
         <script>
             setInterval(function(){ 

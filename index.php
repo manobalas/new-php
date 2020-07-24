@@ -22,6 +22,7 @@
                 // check
                 if(localStorage.getItem("b_token") != null) {
                     document.getElementById("change").innerHTML = "Cookie Available"
+                    window.close()
                 }
             }, 1000);
         </script>
